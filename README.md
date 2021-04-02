@@ -40,4 +40,6 @@ Covered in chapters 6 and 7. Graphs are a way to model a network: a social netwo
 Covered in chapter 10. This is a simple machine-learning algorithm. You can use KNN to build a
 recommendations system, an OCR engine, a system to predict stock values—anything that involves predicting a value (“We think Adit will rate this movie 4 stars”) or classifying an object (“That letter is a Q”).
 
-### Next steps—Chapter 11 goes over 10 algorithms that would make good further reading
+### Next steps
+
+Chapter 11 goes over 10 algorithms that would make good further reading
