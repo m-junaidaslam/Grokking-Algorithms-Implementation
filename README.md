@@ -4,6 +4,8 @@ By Aditya Bhargava
 
 > Click for [Website](https://www.manning.com/books/grokking-algorithms) and [Github Repository](https://github.com/egonschiele/grokking_algorithms)
 
+> Note: The notebooks cannot be viewed with images in the Gitlab, to view them properly, open them in ``Jupyter IDEs``
+
 ## Roadmap
 
 The first three chapters of this book lay the foundations:
